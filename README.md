@@ -1,6 +1,6 @@
 ## Hi， I'm mcallzbl /məkˈɔːl.zɪbəl/
 
-![Profile Views](https://komarev.com/ghpvc/?username=mcallzbl&color=blue&style=flat-square)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=mcallzbl&color=blue&style=flat-square) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcallzbl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mcallzbl&theme=react-dark)
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcallzbl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
