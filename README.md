@@ -1,9 +1,21 @@
 ## Hi， I'm mcallzbl /məkˈɔːl.zɪbəl/
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=mcallzbl&color=blue&style=flat-square) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcallzbl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+🎓 **Education & Background**
+- Student at Northeastern University (China)
+- Major: Software Engineering
+- Primary Focus: Backend Development
+
+## 🛠️ Tech Stack
+
+### Backend
+- **Languages**: Java, Python, Go
+- **Frameworks**: Spring Boot, MyBatis Plus
+- **Databases**: MySQL, Redis, Elasticsearch
+- **Message Queue**: Apache Kafka
+- **DevOps**: Docker, Linux
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mcallzbl&theme=react-dark)
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcallzbl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!--
 **mcallzbl/mcallzbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
